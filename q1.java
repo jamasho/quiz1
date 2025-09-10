@@ -1,4 +1,5 @@
 #
+//Sample code from example files from quiz 
 package Bicycle1;
 
 // Factory Method
@@ -6,5 +7,11 @@ package Bicycle1;
 class Bicycle {
 	Bicycle() {
 		System.out.println("Bicycle: create generic bicycle");
+	}
+}
+
+class MountainBicycle  extends Bicycle {
+	MountainBicycle() {
+		System.out.println("MountainBicycle: create mountain bike");
 	}
 }
