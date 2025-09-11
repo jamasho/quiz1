@@ -34,3 +34,9 @@ class Side Class {
 		Bicycle b = new Bicycle();
 	}
 }
+
+class Pull Class {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+	}
+}
