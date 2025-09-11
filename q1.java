@@ -40,3 +40,9 @@ class Pulll Class {
 		Bicycle b = new Bicycle();
 	}
 }
+
+class conflict 2 Class {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+	}
+}
