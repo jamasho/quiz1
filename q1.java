@@ -28,3 +28,9 @@ class MainClass {
 
 	}
 }
+
+class Side Class {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+	}
+}
