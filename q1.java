@@ -1,5 +1,4 @@
 
-// This is a change
 //Sample code from example files from quiz 
 package Bicycle1;
 
@@ -14,5 +13,11 @@ class Bicycle {
 class MountainBicycle  extends Bicycle {
 	MountainBicycle() {
 		System.out.println("MountainBicycle: create mountain bike");
+	}
+}
+
+class MainClass {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
 	}
 }
