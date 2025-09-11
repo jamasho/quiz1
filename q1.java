@@ -35,7 +35,7 @@ class Side Class {
 	}
 }
 
-class Pull Class {
+class Pulll Class {
 	public static void main(String[] args) {
 		Bicycle b = new Bicycle();
 	}
