@@ -16,13 +16,31 @@ class MountainBicycle  extends Bicycle {
 	}
 }
 
+//pull
+class Testinf  extends Bicycle {
+	MountainBicycle() {
+		System.out.println("MountainBicycle: create mountain bike");
+
+
 class MainClass {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+
+	}
+}
+
+class Side Class {
 	public static void main(String[] args) {
 		Bicycle b = new Bicycle();
 	}
 }
 
-class Side Class {
+class Pull Class {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+	}
+}
+class Pull2 Class {
 	public static void main(String[] args) {
 		Bicycle b = new Bicycle();
 	}
