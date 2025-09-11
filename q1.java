@@ -1,4 +1,4 @@
-#
+
 //Sample code from example files from quiz 
 package Bicycle1;
 
@@ -15,9 +15,16 @@ class MountainBicycle  extends Bicycle {
 		System.out.println("MountainBicycle: create mountain bike");
 	}
 }
+
 //pull
 class Testinf  extends Bicycle {
 	MountainBicycle() {
 		System.out.println("MountainBicycle: create mountain bike");
+
+
+class MainClass {
+	public static void main(String[] args) {
+		Bicycle b = new Bicycle();
+
 	}
 }
