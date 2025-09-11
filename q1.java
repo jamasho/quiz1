@@ -15,3 +15,9 @@ class MountainBicycle  extends Bicycle {
 		System.out.println("MountainBicycle: create mountain bike");
 	}
 }
+//pull
+class Testinf  extends Bicycle {
+	MountainBicycle() {
+		System.out.println("MountainBicycle: create mountain bike");
+	}
+}
