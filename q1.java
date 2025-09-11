@@ -40,8 +40,3 @@ class Pull Class {
 		Bicycle b = new Bicycle();
 	}
 }
-class Pull2 Class {
-	public static void main(String[] args) {
-		Bicycle b = new Bicycle();
-	}
-}
